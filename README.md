@@ -1,4 +1,5 @@
 # tp3-vision-par-ordinateur
+# mini projet
 # Floutage automatique des visages
 
 Mini-projet du TP3 « Vision par ordinateur » (module Technologies IA, ENSA Fès, Pr. Youness IDRISSI KHAMLICHI).
@@ -76,4 +77,4 @@ uploaded = files.upload()
 
 ## Auteur
 
-AYA TAHIRI, 2eme année, Ingénierie Logicielle et Intelligence Artificielle (ILIA2), ENSA Fès.
+AYA TAHIRI,Yasmina Alami Aroussi 2eme année, Ingénierie Logicielle et Intelligence Artificielle (ILIA2), ENSA Fès.
